@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2026 NSH Anaesthesia
+Copyright (c) 2026 MJ Rosslee and the New Somerset Hospital Department of Anaesthesia
+
+This licence applies to the SOFTWARE in this repository: the HTML structure,
+CSS, JavaScript and tooling (e.g. tools/*.py) written for this project.
+It does NOT cover the clinical content in forms/shared/regional-content.js and
+the patient-leaflet text (see LICENSE-CONTENT.md), nor the third-party forms,
+logos and crests listed in NOTICE.md, which remain the property of their owners.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
